@@ -1,0 +1,4 @@
+[submodule "RLJO/mobile-appbuilder"]
+	path = RLJO/mobile-appbuilder
+	url = git@github.com:RLJO/mobile-appbuilder.git
+	branch = master
