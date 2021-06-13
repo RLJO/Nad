@@ -2,3 +2,8 @@
 	path = RLJO/mobile-appbuilder
 	url = git@github.com:RLJO/mobile-appbuilder.git
 	branch = master
+
+[submodule "RLJO/RagsonsKenyaLtd"]
+	path = RLJO/RagsonsKenyaLtd
+	url = git@github.com:RLJO/RagsonsKenyaLtd.git
+	branch = main
